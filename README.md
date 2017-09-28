@@ -14,21 +14,21 @@
   * [Hackathon Practice Guide](https://www.analyticsvidhya.com/blog/2015/06/hackathon-practice-guide-analytics-vidhya/)
 
 * __Data Science :__
- * [42 Steps to Mastering Data Science](http://www.kdnuggets.com/2017/08/42-steps-mastering-data-science.html)
- * [Application of Data Science](https://www.analyticsvidhya.com/blog/2015/09/applications-data-science/)
- * [Data Science Principles and Processes](https://www.techinasia.com/talk/data-science-simplified-principles-processes)
- * [Dipping toes into Data Science](https://www.techinasia.com/talk/dipping-toes-data-science)
- * [Learn Big Data Analytics using Videos](https://www.analyticsvidhya.com/blog/2015/07/big-data-analytics-youtube-ted-resources/)
- * [Learning from 185 Quora Questions](https://unsupervisedmethods.com/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
- * [Simple Markov Chain](https://www.analyticsvidhya.com/blog/2014/07/solve-business-case-simple-markov-chain/)
- * [Starting Data Science](https://www.techinasia.com/talk/start-data-science)
- * [Statistical Learning](https://www.techinasia.com/talk/data-science-simplified-statistical-learning)
+  * [42 Steps to Mastering Data Science](http://www.kdnuggets.com/2017/08/42-steps-mastering-data-science.html)
+  * [Application of Data Science](https://www.analyticsvidhya.com/blog/2015/09/applications-data-science/)
+  * [Data Science Principles and Processes](https://www.techinasia.com/talk/data-science-simplified-principles-processes)
+  * [Dipping toes into Data Science](https://www.techinasia.com/talk/dipping-toes-data-science)
+  * [Learn Big Data Analytics using Videos](https://www.analyticsvidhya.com/blog/2015/07/big-data-analytics-youtube-ted-resources/)
+  * [Learning from 185 Quora Questions](https://unsupervisedmethods.com/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
+  * [Simple Markov Chain](https://www.analyticsvidhya.com/blog/2014/07/solve-business-case-simple-markov-chain/)
+  * [Starting Data Science](https://www.techinasia.com/talk/start-data-science)
+  * [Statistical Learning](https://www.techinasia.com/talk/data-science-simplified-statistical-learning)
   
 * __Data Science Journey :__
   * [From Biology to Industry](https://www.r-bloggers.com/from-biology-to-industry-a-bloggers-journey-to-data-science/)
   
 * __Data Visualization :__
- * [Tableu for Beginners](https://www.analyticsvidhya.com/blog/2017/07/data-visualisation-made-easy/)
+  * [Tableu for Beginners](https://www.analyticsvidhya.com/blog/2017/07/data-visualisation-made-easy/)
   
 * __Deep Learning :__
   * [25 Terms and Concepts in Deep Learning](https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/)
@@ -49,7 +49,7 @@
   * [NLP Carik Bot](https://medium.com/@luridarmawan/natural-language-processing-nlp-sederhana-dari-carik-bot-78952b618695)
 
 * __Python :__
- * [Data Exploration Guide](https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
+  * [Data Exploration Guide](https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
  
 * __R :__
   * [Data Analysis for Life Sciences](https://www.r-bloggers.com/data-analysis-for-life-sciences/)
@@ -69,7 +69,7 @@
   * [Univariate Distributions Relationship](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
   
 * __SQL :__
- * [Basics of SQL and RDBMS](https://www.analyticsvidhya.com/blog/2015/03/basics-sql-rdbms/)
+  * [Basics of SQL and RDBMS](https://www.analyticsvidhya.com/blog/2015/03/basics-sql-rdbms/)
   
 * __Tensorflow :__
   * [Tutorial part 1](https://machinelearningblogs.com/2017/09/07/tensorflow-tutorial-part-1-introduction/)
