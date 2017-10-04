@@ -1,5 +1,7 @@
 # Data-Science-References
 
+### Here is some useful resources to learn about Data Science, enjoy !!
+
 * __Analytics :__
   * [10 Things about Analytics Related Career](https://www.analyticsvidhya.com/10-analytics-related-career/)
   * [Analyze Big Data with Excel](http://www.datasciencecentral.com/profiles/blogs/how-to-analyze-big-data-with-excel?utm_content=buffer7c1a9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
