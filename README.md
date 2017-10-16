@@ -14,7 +14,7 @@
   * [Running Spark in Jupyter Notebook](https://cloudxlab.com/blog/running-pyspark-jupyter-notebook/)
   
 * __Artificial Intelligence :__
-  * [AI is the New Electricity](https://www.youtube.com/watch?v=21EiKfQYZXc)
+  * [AI is the New Electricity](https://www.youtube.com/watch?v=21EiKfQYZXc)
   * [AI Gaming Revolution](https://www.youtube.com/watch?v=Xhec39dVGDE)
   
 * __A/B Testing :__
