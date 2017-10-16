@@ -4,6 +4,7 @@
 
 * __Analytics :__
   * [10 Things about Analytics Related Career](https://www.analyticsvidhya.com/10-analytics-related-career/)
+  * [A Crucial Element of Analytics](https://www.analyticsvidhya.com/blog/2016/12/data-pre-processing-a-crucial-element-of-analytics-driven-embedded-systems/)
   * [Analyze Big Data with Excel](http://www.datasciencecentral.com/profiles/blogs/how-to-analyze-big-data-with-excel?utm_content=buffer7c1a9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
   * [Excel Tricks for Analyzing Data](https://www.analyticsvidhya.com/blog/2015/11/excel-tips-tricks-data-analysis/)
   * [Must Read Books in Web Analytics](https://www.analyticsvidhya.com/blog/2013/10/read-books-web-analytics/)
@@ -16,13 +17,7 @@
 * __Artificial Intelligence :__
   * [AI is the New Electricity](https://www.youtube.com/watch?v=21EiKfQYZXc)
   * [AI Gaming Revolution](https://www.youtube.com/watch?v=Xhec39dVGDE)
-  
-* __A/B Testing :__
-  * [A/B Testing](https://www.facebook.com/techinasiaID/videos/1633276160058453/)
-  
-* __Must Read Books :__
-  * [Machine Learning and Data Science](http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html)
-  
+
 * __Cheat Sheets :__
   * [All Cheat Sheets](http://www.kdnuggets.com/2017/09/essential-data-science-machine-learning-deep-learning-cheat-sheets.html)
   * [All Cheat Sheets 2](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
@@ -32,9 +27,6 @@
   * [Datasets for Data Science and Machine Learning](https://elitedatascience.com/datasets)
   * [Hackathon Practice Guide](https://www.analyticsvidhya.com/blog/2015/06/hackathon-practice-guide-analytics-vidhya/)
   
-* __Data Preprocessing :__
-  * [A Crucial Element of Analytics](https://www.analyticsvidhya.com/blog/2016/12/data-pre-processing-a-crucial-element-of-analytics-driven-embedded-systems/)
-
 * __Data Science :__
   * [40 Interview Questions Asked at Startups](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/)
   * [42 Steps to Mastering Data Science](http://www.kdnuggets.com/2017/08/42-steps-mastering-data-science.html)
@@ -79,15 +71,19 @@
   * [Simple Linear Regression](https://www.techinasia.com/talk/data-science-simplified-linear-regression-models)
   * [Understanding SVM](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
   
+* __Must Read Books :__
+  * [Machine Learning and Data Science](http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html)
+  
 * __Natural Language Processing (NLP) :__
   * [30 Questions on NLP](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/)
   * [Effective Text Data Cleaning](https://www.analyticsvidhya.com/blog/2014/11/text-data-cleaning-steps-python/)
   * [NLP Carik Bot](https://medium.com/@luridarmawan/natural-language-processing-nlp-sederhana-dari-carik-bot-78952b618695)
   * [Text Clustering](https://machinelearningblogs.com/2017/01/26/text-clustering-get-quick-insights-from-unstructured-data/)
-
-* __Python :__
+  
+* __Others :__
+  * [A/B Testing](https://www.facebook.com/techinasiaID/videos/1633276160058453/)
   * [Data Exploration Guide](https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
- 
+
 * __R :__
   * [Accelerator for Credit Risk Prediction](https://www.r-bloggers.com/data-science-accelerator-for-credit-risk-prediction/)
   * [Analyze Max-Diff Data](https://www.r-bloggers.com/how-to-analyze-max-diff-data-in-r/)
