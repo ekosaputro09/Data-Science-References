@@ -7,8 +7,11 @@
   * [A Crucial Element of Analytics](https://www.analyticsvidhya.com/blog/2016/12/data-pre-processing-a-crucial-element-of-analytics-driven-embedded-systems/)
   * [Analyze Big Data with Excel](http://www.datasciencecentral.com/profiles/blogs/how-to-analyze-big-data-with-excel?utm_content=buffer7c1a9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
   * [Excel Tricks for Analyzing Data](https://www.analyticsvidhya.com/blog/2015/11/excel-tips-tricks-data-analysis/)
+  * [How to Choose the Right Training](https://www.analyticsvidhya.com/blog/2015/02/choose-data-science-analytics-big-data-training/)
+  * [Learning Path on Analytics Career](https://www.analyticsvidhya.com/blog/2014/10/learning-path-resources-start-analytics/)
   * [Must Read Books in Web Analytics](https://www.analyticsvidhya.com/blog/2013/10/read-books-web-analytics/)
   * [The Art of Structured Thinking and Analyzing](https://www.analyticsvidhya.com/blog/2013/06/art-structured-thinking-analyzing/)
+  * [Tools for Improving Structured Thinking](https://www.analyticsvidhya.com/blog/2014/02/tools-structured-thinking/)
   
 * __Apache Spark :__
   * [Apache Spark using Scala](https://www.analyticsvidhya.com/blog/2017/01/scala/)
@@ -81,13 +84,19 @@
   * [Text Clustering](https://machinelearningblogs.com/2017/01/26/text-clustering-get-quick-insights-from-unstructured-data/)
   
 * __Others :__
+  * [24 Ultimate Data Scientists to Follow](https://www.analyticsvidhya.com/blog/2015/09/ultimate-data-scientists-world-today/)
   * [A/B Testing](https://www.facebook.com/techinasiaID/videos/1633276160058453/)
   * [Data Exploration Guide](https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
+  * [Documentaries on Statistics and ML](https://www.analyticsvidhya.com/blog/2015/11/7-watch-documentaries-statistics-machine-learning/)
+  * [How to Become Data Scientist](https://www.analyticsvidhya.com/blog/2014/09/how-data-scientist-business-analyst/)
+  * [Practical Guide on PCA](https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/)
 
 * __R :__
   * [Accelerator for Credit Risk Prediction](https://www.r-bloggers.com/data-science-accelerator-for-credit-risk-prediction/)
   * [Analyze Max-Diff Data](https://www.r-bloggers.com/how-to-analyze-max-diff-data-in-r/)
   * [Animated Image for Data Visualization](https://www.analyticsvidhya.com/blog/2017/06/a-study-on-global-seismic-activity-between-1965-and-2016/)
+  * [Arranging Subplots with ggplot2](https://www.r-bloggers.com/arranging-subplots-with-ggplot2/)
+  * [Automatic Document Production](https://www.r-bloggers.com/improving-automatic-document-production-with-r/)
   * [Basic Logistic Regression](https://www.analyticsvidhya.com/blog/2015/10/basics-logistic-regression/)
   * [Clustering](https://www.r-bloggers.com/clustering/)
   * [Complete Subset Regression](https://www.r-bloggers.com/complete-subset-regressions-simple-and-powerful/)
@@ -122,10 +131,13 @@
   * [Smooth Animations with Tweenr Package](https://www.r-bloggers.com/create-smooth-animations-in-r-with-the-tweenr-package/)
   * [Studying Diseases with RECON](https://www.r-bloggers.com/studying-disease-with-r-recon-the-r-epidemics-consortium/)
   * [Spark and SparklyR](https://www.r-bloggers.com/new-series-r-and-big-data-concentrating-on-spark-and-sparklyr/)
+  * [Spatial Data Analysis and Visualization](https://data.cdrc.ac.uk/tutorial/an-introduction-to-spatial-data-analysis-and-visualisation-in-r)
   * [Summarizing Big Data](https://www.r-bloggers.com/summarizing-big-data-in-r/)
   * [Text Message Classification](https://www.r-bloggers.com/text-message-classification/)
-  * [Time Series Forecasting](https://shiring.github.io/forecasting/2017/05/28/retail_forcasting_part1)
+  * [Unsupervised Learning and Text Mining](https://www.r-bloggers.com/unsupervised-learning-and-text-mining-of-emotion-terms-using-r/)
   * [Upgrade R without Losing Packages](https://www.r-bloggers.com/upgrade-r-without-losing-your-packages/)
+  * [Visualizing Uncertainty in Time Series](https://www.r-bloggers.com/visualising-uncertainty-in-time-series-using-animations/)
+  * [Wall Street Journal Data Visualization](https://www.r-bloggers.com/how-to-create-a-wall-street-journal-data-visualization-in-r/)
   * [Writing Efficient R Code](https://www.r-bloggers.com/new-r-course-writing-efficient-r-code/)
 
 * __Statistics :__
@@ -144,4 +156,7 @@
   * [Tutorial part 1](https://machinelearningblogs.com/2017/09/07/tensorflow-tutorial-part-1-introduction/)
   
 * __Time Series:__
+  * [Time Series Forecasting](https://shiring.github.io/forecasting/2017/05/28/retail_forcasting_part1)
   * [Time Series Forecasting](https://www.r-bloggers.com/data-science-for-business-time-series-forecasting-part-1-eda-data-preparation/)
+  * [Timekit Package](https://www.r-bloggers.com/timekit-new-documentation-function-improvements-forecasting-vignette/)
+  
