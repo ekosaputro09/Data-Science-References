@@ -5,6 +5,7 @@
 * __Analytics :__
   * [10 Things about Analytics Related Career](https://www.analyticsvidhya.com/10-analytics-related-career/)
   * [Analyze Big Data with Excel](http://www.datasciencecentral.com/profiles/blogs/how-to-analyze-big-data-with-excel?utm_content=buffer7c1a9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+  * [Excel Tricks for Analyzing Data](https://www.analyticsvidhya.com/blog/2015/11/excel-tips-tricks-data-analysis/)
   * [Must Read Books in Web Analytics](https://www.analyticsvidhya.com/blog/2013/10/read-books-web-analytics/)
   * [The Art of Structured Thinking and Analyzing](https://www.analyticsvidhya.com/blog/2013/06/art-structured-thinking-analyzing/)
   
@@ -12,8 +13,15 @@
   * [Apache Spark using Scala](https://www.analyticsvidhya.com/blog/2017/01/scala/)
   * [Running Spark in Jupyter Notebook](https://cloudxlab.com/blog/running-pyspark-jupyter-notebook/)
   
+* __Artificial Intelligence :__
+  * [AI is the New Electricity](https://www.youtube.com/watch?v=21EiKfQYZXc)
+  * [AI Gaming Revolution](https://www.youtube.com/watch?v=Xhec39dVGDE)
+  
 * __A/B Testing :__
   * [A/B Testing](https://www.facebook.com/techinasiaID/videos/1633276160058453/)
+  
+* __Must Read Books :__
+  * [Machine Learning and Data Science](http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html)
   
 * __Cheat Sheets :__
   * [All Cheat Sheets](http://www.kdnuggets.com/2017/09/essential-data-science-machine-learning-deep-learning-cheat-sheets.html)
@@ -47,9 +55,12 @@
   * [Tableu for Beginners](https://www.analyticsvidhya.com/blog/2017/07/data-visualisation-made-easy/)
   
 * __Deep Learning and Neural Network:__
+  * [6 Deep Learning Applications for Beginner](https://www.analyticsvidhya.com/blog/2017/02/6-deep-learning-applications-beginner-python/)
   * [25 Terms and Concepts in Deep Learning](https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/)
   * [30 Questions on Deep Learning](https://www.analyticsvidhya.com/blog/2017/08/skilltest-deep-learning/)
   * [Implementing Neural Networks using Tensorflow](https://www.analyticsvidhya.com/blog/2016/10/an-introduction-to-implementing-neural-networks-using-tensorflow/)
+  * [Machine Learning for Video Games using Neural Network](https://www.youtube.com/watch?v=qv6UVOQ0F44)
+  * [Understanding Neural Network from Scratch](https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/)
   * [What is Neural Network](http://www.datascribble.com/blog/deep-learning/deep-learning-tensorflow-series-part-1-neural-network/)
 
   
@@ -79,12 +90,15 @@
  
 * __R :__
   * [Accelerator for Credit Risk Prediction](https://www.r-bloggers.com/data-science-accelerator-for-credit-risk-prediction/)
+  * [Analyze Max-Diff Data](https://www.r-bloggers.com/how-to-analyze-max-diff-data-in-r/)
   * [Animated Image for Data Visualization](https://www.analyticsvidhya.com/blog/2017/06/a-study-on-global-seismic-activity-between-1965-and-2016/)
   * [Basic Logistic Regression](https://www.analyticsvidhya.com/blog/2015/10/basics-logistic-regression/)
   * [Clustering](https://www.r-bloggers.com/clustering/)
   * [Complete Subset Regression](https://www.r-bloggers.com/complete-subset-regressions-simple-and-powerful/)
+  * [Connecting R to an Oracle Database](https://www.r-bloggers.com/connecting-r-to-an-oracle-database/)
   * [Data Analysis for Life Sciences](https://www.r-bloggers.com/data-analysis-for-life-sciences/)
   * [Data Manipulation with Data Table](https://www.r-bloggers.com/data-manipulation-with-data-table-part-1/)
+  * [Data Science Learning Paths](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-r-data-science/)
   * [Data Visualization using Shiny App](https://www.analyticsvidhya.com/blog/2016/10/creating-interactive-data-visualization-using-shiny-app-in-r-with-examples/)
   * [Data Visualization with GoogleVis Exercise](https://www.r-exercises.com/2017/06/04/data-visualization-with-googlevis-exercises-part-1/)
   * [Data Wrangling](https://www.r-exercises.com/2017/05/24/data-wrangling-part-1-io/)
@@ -97,14 +111,22 @@
   * [Google Vision API](https://www.r-bloggers.com/google-vision-api-in-r-rooglevision/)
   * [Gradient Boosting](https://www.analyticsvidhya.com/blog/2015/09/complete-guide-boosting-methods/)
   * [HR Analytics](https://www.r-bloggers.com/hr-analytics-using-machine-learning-to-predict-employee-turnover/)
+  * [Instrumental Variables](https://www.r-exercises.com/2017/05/15/instrumental-variables-in-r-exercises-part-1/)
   * [Interfacing with APIs](https://www.r-bloggers.com/interfacing-with-apis-using-r-the-basics/)
+  * [Learn kNN Algorithm](https://www.analyticsvidhya.com/blog/2015/08/learning-concept-knn-algorithms-programming/)
+  * [Mixed Models for ANOVA Design](https://www.r-bloggers.com/mixed-models-for-anova-designs-with-one-observation-per-unit-of-observation-and-cell-of-the-design/)
+  * [Phylomoji](https://www.r-bloggers.com/phylomoji-with-ggtree-and-emojifont-2/)
   * [Quantile Regression](https://www.r-bloggers.com/quantile-regression-in-r-exercises/)
   * [R for Data Science](http://r4ds.had.co.nz/)
+  * [R vs Python](https://www.r-bloggers.com/r-vs-python-different-similarities-and-similar-differences/)
   * [Random Forest](https://www.r-bloggers.com/random-forests-in-r/)
   * [Regression Analysis](https://www.r-bloggers.com/regression-analysis-what-you-shouldve-been-taught-but-werent-and-were-taught-but-shouldnt-have-been/)
   * [Sampling Weights and Multilevel Modelling](https://www.r-bloggers.com/sampling-weights-and-multilevel-modeling-in-r/)
   * [Sentiment Analysis Package](https://www.r-bloggers.com/package-sentimentanalysis-released-on-cran/)
+  * [Smooth Animations with Tweenr Package](https://www.r-bloggers.com/create-smooth-animations-in-r-with-the-tweenr-package/)
   * [Studying Diseases with RECON](https://www.r-bloggers.com/studying-disease-with-r-recon-the-r-epidemics-consortium/)
+  * [Spark and SparklyR](https://www.r-bloggers.com/new-series-r-and-big-data-concentrating-on-spark-and-sparklyr/)
+  * [Summarizing Big Data](https://www.r-bloggers.com/summarizing-big-data-in-r/)
   * [Text Message Classification](https://www.r-bloggers.com/text-message-classification/)
   * [Time Series Forecasting](https://shiring.github.io/forecasting/2017/05/28/retail_forcasting_part1)
   * [Upgrade R without Losing Packages](https://www.r-bloggers.com/upgrade-r-without-losing-your-packages/)
@@ -124,3 +146,6 @@
   
 * __Tensorflow :__
   * [Tutorial part 1](https://machinelearningblogs.com/2017/09/07/tensorflow-tutorial-part-1-introduction/)
+  
+* __Time Series:__
+  * [Time Series Forecasting](https://www.r-bloggers.com/data-science-for-business-time-series-forecasting-part-1-eda-data-preparation/)
